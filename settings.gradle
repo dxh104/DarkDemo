@@ -1,0 +1,6 @@
+rootProject.name = "DarkDemo"
+include ':app'
+include ':app2'
+include ':app_night'
+include ':app_light'
+include ':app_res1'
